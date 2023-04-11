@@ -10,7 +10,7 @@ import java.nio.charset.Charset;
 
 public class App {
     public static void main (String[] args) {
-        //1 json from filr
+        //1 json from file
         Student student = null;
         try {
             student = getStudent();
